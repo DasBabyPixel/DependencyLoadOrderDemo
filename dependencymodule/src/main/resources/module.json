@@ -1,0 +1,6 @@
+{
+  "group": "de.dasbabypixel",
+  "name": "DependencyModule",
+  "version": "1.0",
+  "main": "de.dasbabypixel.dependencymodule.DependencyModule"
+}
