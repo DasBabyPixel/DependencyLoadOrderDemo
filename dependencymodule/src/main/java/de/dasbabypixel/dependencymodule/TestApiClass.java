@@ -7,6 +7,6 @@ import java.util.logging.Logger;
 @Singleton
 public class TestApiClass {
     public void printSuccess(Class<?> cls) {
-        Logger.getLogger(cls.getSimpleName()).info("TestApi Success");
+        Logger.getLogger(cls.getSimpleName()).info(cls.getSimpleName() + ": TestApi Success");
     }
 }
