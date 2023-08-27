@@ -5,4 +5,5 @@ pluginManagement {
 }
 
 include("mainmodule")
+include("cyclicmodule")
 include("dependencymodule")

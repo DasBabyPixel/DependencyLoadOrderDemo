@@ -1,0 +1,13 @@
+{
+  "group": "de.dasbabypixel",
+  "name": "CyclicModule",
+  "version": "1.0",
+  "main": "de.dasbabypixel.cyclicmodule.CyclicModule",
+  "dependencies": [
+    {
+      "name": "MainModule",
+      "group": "de.dasbabypixel",
+      "version": "1.0"
+    }
+  ]
+}

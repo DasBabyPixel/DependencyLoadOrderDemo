@@ -8,6 +8,11 @@
       "name": "DependencyModule",
       "group": "de.dasbabypixel",
       "version": "1.0"
+    },
+    {
+      "name": "CyclicModule",
+      "group": "de.dasbabypixel",
+      "version": "1.0"
     }
   ]
 }
